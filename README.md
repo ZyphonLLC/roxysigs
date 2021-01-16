@@ -1,5 +1,5 @@
 # roxysigs
 
-[JacquelineGallettaSignature.html](JacquelineGallettaSignature.html)
+[JacquelineGallettaSignature-retina.html](JacquelineGallettaSignature-retina.html)
 
-[RoxyLauferSignature.html](RoxyLauferSignature.html)
+[RoxyLauferSignature-retina.html](RoxyLauferSignature-retina.html)
